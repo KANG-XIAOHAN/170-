@@ -1,5 +1,5 @@
 print("Hello")
-print(4**10)
+print(0**10)
 
 def printf():
 	print("Yes it workds.")
